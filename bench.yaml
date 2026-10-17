@@ -1,0 +1,28 @@
+source:
+  url: https://github.com/fabien-soulier/tt-gf26A-bioimpedance
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26a
+  slot: tt_um_bioimpedance
+  project: Very Low Resource Digital Implementation of Bioimpedance Analysis
+  size: 2x2
+  kind: digital (Verilog)
+  commit: fe977b24c83c0d4ca7021a206e132a316e917967
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26a/tt_um_bioimpedance
+  branch: tapeout/tinytapeout/ttgf26a/tt_um_bioimpedance
+  page: https://app.tinytapeout.com/shuttles/ttgf26a
+generated: '2026-10-17T23:37:53Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26a/tt_um_bioimpedance
+- upstream/Nogaye_tinytapeout
+- upstream/main
+- upstream/soulier
